@@ -5,6 +5,7 @@ import Card from "./components/Card";
 import data from "./data";
 import './App.css';
 
+
 function App() {
   const cards = data.map(item => {
     return (
